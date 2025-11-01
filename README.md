@@ -226,7 +226,7 @@ TalesRunner/
 
 ## **6. 프로젝트 관련 자료**
 - [프로젝트_Notion 페이지](https://euron-7th.notion.site/TalesRunner_-9aff24c76c374e9994200342f272e5f6?pvs=4)
-- [발표자료]()
+- [발표자료](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%EA%B8%B0/%5BResearch%5D%20%ED%85%8C%EC%9D%BC%EC%A6%88%EB%9F%AC%EB%84%88_%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EA%B8%B0%EB%B0%98%20%EB%8F%99%ED%99%94%20%EC%83%9D%EC%84%B1.pdf)
 
 ---
 ## **회고**
